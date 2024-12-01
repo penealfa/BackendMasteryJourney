@@ -2,7 +2,7 @@
 
 Welcome to **Backend Mastery Journey**, a repository documenting my path to mastering backend development. This journey is focused on learning and implementing the foundational and advanced concepts required to build reliable, scalable, and maintainable backend systems.  
 
-## 🌟 Goals  
+## 🌟 Goals (Dec 2024) 
 1. Master backend development concepts, including distributed systems, databases, and API design.  
 2. Build practical, real-world-inspired projects to solidify knowledge.  
 3. Share my progress and projects with the developer community.  
